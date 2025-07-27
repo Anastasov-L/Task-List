@@ -17,3 +17,10 @@ Whats missing?
 1. firebase_key.json inside the root of todo_project folder
 2. db.sqlite3 (can be generated)
 3. .env files. If u want to recreate the project you have to create a virtual environment "/env".
+
+DISCLAIMER:
+⚠️ This is a simple project built for learning/showcase purposes.
+It is not actively maintained or supported.
+Use at your own discretion.
+I will not be responsible if personal data is stolen
+I cannot guarantee full security when using it.
