@@ -1,0 +1,46 @@
+{
+  "name": "front-end",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.1",
+    "@capacitor/cli": "^7.4.1",
+    "@capacitor/core": "^7.4.1",
+    "@capacitor/haptics": "^7.0.1",
+    "@capacitor/splash-screen": "^7.0.1",
+    "@chakra-ui/charts": "^3.16.1",
+    "@chakra-ui/react": "^3.16.1",
+    "@emotion/react": "11",
+    "@emotion/styled": "11",
+    "axios": "^1.10.0",
+    "capacitor-plugin-safe-area": "^4.0.0",
+    "firebase": "^11.9.1",
+    "framer-motion": "10",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.5.2",
+    "recharts": "^2.15.3"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@eslint/js": "^9.22.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.22.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "typescript": "~5.7.2",
+    "typescript-eslint": "^8.26.1",
+    "vite": "^6.3.1"
+  }
+}
